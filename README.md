@@ -4,6 +4,10 @@ An Android application built using **Jetpack Compose** that integrates with a re
 
 ---
 
+https://github.com/user-attachments/assets/be384fc6-f465-43f3-8dd6-8d6028fcee82
+
+---
+
 ## 🚀 Features
 
 ### Discover Screen
