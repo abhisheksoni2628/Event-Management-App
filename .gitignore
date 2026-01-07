@@ -1,0 +1,31 @@
+# Built files
+*.apk
+*.aab
+*.ap_
+build/
+**/build/
+
+# Gradle
+.gradle/
+
+# Local config
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystore (DO NOT COMMIT)
+*.jks
+*.keystore
+
+# External native build
+.externalNativeBuild/
+.cxx/
